@@ -1,0 +1,15 @@
+
+# Intellij
+.idea/*
+!.idea/codeStyles/
+*.iml
+target
+
+# Local Environment
+application-local.properties
+
+# Runtime config of application
+
+# JVM
+hs_err_pid*
+
